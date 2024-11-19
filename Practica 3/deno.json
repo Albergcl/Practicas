@@ -4,5 +4,6 @@
   },
   "imports": {
     "mongodb": "npm:mongodb@^6.10.0"
+    
   }
 }

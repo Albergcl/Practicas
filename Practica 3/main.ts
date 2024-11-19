@@ -1,4 +1,5 @@
 /*
+
 DESCRIPCION:
   - Crear una nueva tarea.
   - Listar todas las tareas existentes.
@@ -41,6 +42,7 @@ Rutas de la API
   Descripción: Elimina una tarea por su ID.
   Errores posibles:
     Si no existe una tarea con ese ID, devolver: { "error": "Tarea no encontrada" }
+
 */
 
 //Gonzalo Vazquez Segura y Alberto Gonzalez-Calero Lopez

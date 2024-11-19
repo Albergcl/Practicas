@@ -1,3 +1,4 @@
+
 import type { Task, TaskModel } from "./types.ts";
 
 export const fromModelToTask = (model: TaskModel): Task => ({
